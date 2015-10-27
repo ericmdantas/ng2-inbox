@@ -12,7 +12,7 @@ import {UserCmp} from 'client/user/user_cmp.js';
   selector: 'app-cmp',
   templateUrl: 'client/app.html',
   //styleUrls: ['client/app.css'],
-  directives: [MessageCmp, UserCmp]
+  directives: [/*MessageCmp,*/ UserCmp]
 })
 export class AppCmp implements OnInit {
   onInit() {
