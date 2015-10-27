@@ -1,0 +1,6 @@
+node_modules
+*.log
+client/**/*.js
+server.js
+client.js
+typings

@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    },
+    "filesGlob": [
+        "loader.js",
+        "client.ts",
+        "server.ts",
+        "client/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "files": [
+        "loader.js",
+        "client.ts",
+        "server.ts",
+        "client/app_cmp.ts",
+        "client/background.ts",
+        "client/message/message_cmp.ts",
+        "client/user/user_cmp.ts"
+    ]
+}

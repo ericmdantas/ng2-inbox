@@ -1,0 +1,24 @@
+{
+  "name": "ng2-inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmdantas/ng2-inbox.git"
+  },
+  "author": "Eric Mendes Dantas <ericdantas0@gmail.com> (https://github.com/ericmdantas)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericmdantas/ng2-inbox/issues"
+  },
+  "homepage": "https://github.com/ericmdantas/ng2-inbox#readme",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.44",
+    "reflect-metadata": "^0.1.2",
+    "systemjs": "^0.19.5"
+  }
+}
